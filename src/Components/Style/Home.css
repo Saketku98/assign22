@@ -1,0 +1,17 @@
+.HomeDiv{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(207, 228, 207);
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 50px;
+}
+p{
+    margin-top: 50px;
+    color: brown;
+    font-size: xx-large;
+    padding-left: 10px;
+}
